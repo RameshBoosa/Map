@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED9840C8-8445-4548-A66B-FF0961538933"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C0DD06F-AAC2-47A6-90B7-4044C5A75B2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "getStartAndEndModels()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3444B438-7E96-495A-86E1-CFCF285675DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/Heatmap.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3444B438-7E96-495A-86E1-CFCF285675DA - 4e07085700ace598"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.Heatmap.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/Heatmap.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+               <Location
+                  uuid = "3444B438-7E96-495A-86E1-CFCF285675DA - 4e07085700ace598"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.Heatmap.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/Heatmap.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "2405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CE1CEF5-EA41-4FC4-A978-069D156E3010"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getStartAndEndModels()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71D7CFB1-DCA3-459F-AF5D-5EBC4241855D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getStartAndEndModels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71D7CFB1-DCA3-459F-AF5D-5EBC4241855D - 3935d8116658cf07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.HeatmapData.getStartAndEndModels() -&gt; Swift.Array&lt;CalendarHeatmap_Example.HeatmapData.SampleModel&gt;"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/HeatmapData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3497">
+               </Location>
+               <Location
+                  uuid = "71D7CFB1-DCA3-459F-AF5D-5EBC4241855D - 3935d8116658cf07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.HeatmapData.getStartAndEndModels() -&gt; Swift.Array&lt;CalendarHeatmap_Example.HeatmapData.SampleModel&gt;"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/HeatmapData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3726">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71483CFC-DAA6-4831-BFE6-8A702C5576E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getStartAndEndModels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71483CFC-DAA6-4831-BFE6-8A702C5576E8 - 3935d8116658cfe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.HeatmapData.getStartAndEndModels() -&gt; Swift.Array&lt;CalendarHeatmap_Example.HeatmapData.SampleModel&gt;"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/HeatmapData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "3773">
+               </Location>
+               <Location
+                  uuid = "71483CFC-DAA6-4831-BFE6-8A702C5576E8 - 3935d8116658cfe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CalendarHeatmap_Example.HeatmapData.getStartAndEndModels() -&gt; Swift.Array&lt;CalendarHeatmap_Example.HeatmapData.SampleModel&gt;"
+                  moduleName = "CalendarHeatmap_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vmeda/Downloads/Version1/CalendarHeatmap/HeatmapData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "3918">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F0A555-4F4E-4885-AE34-44C259C8D194"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/Heatmap.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16DAF90D-D1A7-46B6-9658-10679ED5588F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getEventTypeForTime(date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B63A5E8-A2A6-4A51-A179-83A953215CD2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalendarHeatmap/HeatmapData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getEventTypeForTime(date:time:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

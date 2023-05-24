@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "start": {
+                "dateTime": "2023-04-14T08:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2023-04-14T09:30:00-00:00",
+                "timeZone": "UTC"
+            },
+            "eventType": "busy"
+        },
+        {
+            "start": {
+                "dateTime": "2023-04-14T13:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2023-04-14T14:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "eventType": "meeting"
+        },
+        {
+            "start": {
+                "dateTime": "2023-04-15T09:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2023-04-15T16:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "eventType": "outOIOffice"
+        },
+        {
+            "start": {
+                "dateTime": "2023-04-16T09:00:00-00:00",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2023-04-16T12:30:00-00:00",
+                "timeZone": "UTC"
+            },
+            "eventType": "outOIOffice"
+        }
+    ]
+    
+}
